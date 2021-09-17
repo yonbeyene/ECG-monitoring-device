@@ -3,7 +3,8 @@ In this project, aflexible wireless electrocardiogram (ECG) monitoring device wa
 
 ![Board](https://user-images.githubusercontent.com/88264517/133828758-e0def8f2-6dfc-4493-a00b-4339c5370e7c.png)
 ![ECG Sch2](https://user-images.githubusercontent.com/88264517/133828793-ce7a7dff-291b-432e-a5d4-06ae78a29b5b.png)
-![448D264C-C142-4223-B12F-5A788E09FB86](https://user-images.githubusercontent.com/88264517/133829648-3af9509d-cb91-42fc-bb47-7675b8d3da1c.PNG)
+![Pic4](https://user-images.githubusercontent.com/88264517/133829717-72aa9bfa-2708-4f65-9bd7-cca69f051158.jpg)
+
 
 
 
