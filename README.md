@@ -1,7 +1,7 @@
 # ECG-monitoring-device
 In this project, a flexible wireless electrocardiogram (ECG) monitoring device was developed using carbon nanotube based dry electrodes and a flexible printed circuit board (PCB) module integrated into a fabric chest belt. The PCB board is designed using Autodesk Eagle. An android mobile application to display an ECG graph is also developed using MIT App Inventor 2 IDE. 
 
-The paper for the project is published at IEEE conference. The link for the publication is:
+The paper for the project is published at IEEE sensors conference. The link for the publication is:
 https://ieeexplore.ieee.org/abstract/document/9639596
 
 
